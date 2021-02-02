@@ -23,7 +23,7 @@ Using:
 
 -Enter the mail from which spam will be sent
 
-!!!Only gmail! Entrance from outside sources must be allowed!!!
+!!!Only gmail! Entrance from outside sources must be allowed! Two-factor authentication must be disabled!!!
 
 -Enter the password from her
 
@@ -65,7 +65,7 @@ It may not work the first time, you have to dig into the mail settings!
 
 -Вводите почту, с которой будет рассылаться спам
 
-!!!Только gmail! Должен быть включен вход с посторонних источников!!!
+!!!Только gmail! Должен быть включен вход с посторонних источников! Двухфакторная аунтификацция должна быть отключена!!!
 
 -Вводите пароль от неё
 
